@@ -1,0 +1,23 @@
+{
+  "name": "staticx3dexample",
+  "version": "1.0.0",
+  "description": "HelloWorld style example of rendering a x3d file on a static website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesWebDev/JupyterNotebookProofOfConcept.git"
+  },
+  "author": "James Freeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesWebDev/JupyterNotebookProofOfConcept/issues"
+  },
+  "homepage": "https://github.com/JamesWebDev/JupyterNotebookProofOfConcept#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
